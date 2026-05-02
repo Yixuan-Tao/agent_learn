@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "225d5b1e0d76c151",
+    "type": "split",
+    "children": [
+      {
+        "id": "16696f7de40f8d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8dd453e9bd15732",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042befbe01dcba23",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dae59add969e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a7e1eb401df6a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "768ec8a92c27a7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "68afcdd8b314199a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b56545269731b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45aba553a71903fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b47ca70487ee339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "9918676a8952edf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "abb69bff6ed5c546",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f550f6ad94cb99ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "22840f63f6ed73af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "85a7e1eb401df6a0",
+  "lastOpenFiles": [
+    "agent_learn",
+    "rag.md",
+    "如何提升rag准确率：.md",
+    "query改写怎么做，为什么要query改写.md",
+    "RAG，agent，mcp.md",
+    "rag中的结构化数据查询.md",
+    "如何让大模型稳定输出结构化结果例如json格式.md",
+    "transformer 架构在处理超长文本时变慢的原因和解决方案.md",
+    "prompt engineering 和 context engineering的区别.md",
+    "欢迎.md",
+    "Top100_高频题_逐题答案_平台后端速答版.md",
+    "Top100_高频题_烤面_初看适用.md",
+    "Obsidian_Agent面试知识网络/10-知识点/工具调用治理（Schema／超时／重试／幂等／降级）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/Agent评估与指标体系.md",
+    "Obsidian_Agent面试知识网络/00-MOC/题库索引（Top100→知识点）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/对齐与训练信号（SFT／RL／Reward／DPO／PPO）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/Transformer基础（Attention／架构）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/RAG系统工程（召回／重排／评估／引用）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/上下文工程（摘要／压缩／卸载／检索注入）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/多智能体协作（分工／黑板／仲裁／收敛）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/安全与权限（越权／提示注入／审计）.md",
+    "Obsidian_Agent面试知识网络/Agent面试知识网络.canvas",
+    "Obsidian_Agent面试知识网络/10-知识点/多智能体协作（分工/黑板/仲裁/收敛）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/反问清单（平台／业务／团队）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/模型服务与部署（网关／推理／伸缩）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/性能与成本优化（并发／缓存／批处理）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/记忆系统（短期／长期／写入策略／防污染）.md",
+    "Obsidian_Agent面试知识网络/10-知识点/反问清单（平台/业务",
+    "Obsidian_Agent面试知识网络/10-知识点/反问清单（平台",
+    "Obsidian_Agent面试知识网络/10-知识点/Transformer基础（Attention",
+    "Obsidian_Agent面试知识网络/10-知识点/对齐与训练信号（SFT/RL/Reward/DPO",
+    "Obsidian_Agent面试知识网络/10-知识点/对齐与训练信号（SFT/RL/Reward",
+    "Obsidian_Agent面试知识网络/10-知识点/对齐与训练信号（SFT/RL",
+    "Obsidian_Agent面试知识网络/10-知识点/对齐与训练信号（SFT",
+    "Obsidian_Agent面试知识网络/10-知识点/模型服务与部署（网关/推理",
+    "Obsidian_Agent面试知识网络/10-知识点/模型服务与部署（网关",
+    "Obsidian_Agent面试知识网络/10-知识点/安全与权限（越权/提示注入"
+  ]
+}
